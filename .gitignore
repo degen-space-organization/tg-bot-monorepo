@@ -11,3 +11,10 @@
 
 #!.yarn/cache
 .pnp.*
+
+# Modules directory
+node_modules
+
+# Distributional files
+dist
+build
