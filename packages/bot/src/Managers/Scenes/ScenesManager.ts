@@ -8,12 +8,14 @@ import { exampleScene } from "./exampleScene";
 
 // #endregion
 
-
 /**
  * Scenes Manager
  * 
  * I manage the scenes and dialogs that the user enters
  * I mostly leverage the scene wizzard from telegraf
+ * 
+ * ref: https://github.com/telegraf/telegraf/issues/705
+ * More documentation and guidance on scenes
  * 
  */
 export class ScenesManager extends Manager {
