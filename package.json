@@ -5,6 +5,6 @@
     "packages/*"
   ],
   "scripts": {
-    "dummy" : "echo 'dummy'"
+    "dummy": "echo 'dummy'"
   }
 }
