@@ -1,1 +1,4 @@
-console.log('Hello from the bot package!');
+import { launchBot } from "./bot";
+
+
+launchBot();
